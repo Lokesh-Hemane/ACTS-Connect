@@ -66,7 +66,7 @@ Before starting, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/AnuragCh2016/acts-connect-fullstack.git
+    git clone [https://github.com/Lokesh-Hemane/ACTS-Connect.git]
     ```
 
 2. Navigate to the frontend directory:
